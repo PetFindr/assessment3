@@ -1,0 +1,15 @@
+React - Expo - Pedometer - Pedometer.getStepCountAsync() - (iOS and Android)
+
+https://www.creativebloq.com/how-to/create-an-app-that-collects-sensor-data
+https://www.dfrobot.com/product-1540.html 
+OR
+https://www.dfrobot.com/product-2164.html
+DFRobot MAX30102 Heart Rate and Oximeter Sensor Breakout Board
+LM35 temperature sensor with Thing Speak API
+https://www.dfrobot.com/product-76.html
+Gravity: Analog LM35 Temperature Sensor For Arduino
+Compare output of one exposed to eair one exposed to pet?
+https://www.dfrobot.com/product-1996.html
+GM65 QR & Barcode Scanner Module
+Arduino API
+
